@@ -1,28 +1,25 @@
-# Data Analyst Internship – Task 2: Data Visualization & Storytelling
+# Task 2: Data Visualization and Storytelling
 
-## ✅ Objective:
-To create effective data visualizations that convey a compelling story using Tableau.
+## Objective:
+To create meaningful visualizations using sales data and draw business insights.
 
-## 🧰 Tools Used:
+## Tool Used:
 - Tableau
-- Dataset: Superstore (Sample)
 
-## 📊 Visualizations Created:
-1. **Bar Chart** – Sales by Category
-2. **Pie Chart** – Sales Distribution by Region
-3. **Line Chart** – Monthly Sales Trend
-4. **Top 10 Products** – by Sales (Horizontal bar)
+## Dataset:
+- Superstore_sample.csv
 
-## 🔍 Key Business Insights:
-- Technology has the highest sales among all categories.
-- West region contributes a large portion of sales.
-- Sales trend peaks during the holiday season.
-- Certain products significantly outperform others in sales.
+## Visualizations Created:
+1. **Bar Chart** - Sales by Category (Chart1_Bar.png)
+2. **Pie Chart** - Profit Distribution by Region (Chart2_Pie.png)
+3. **Line Chart** - Sales Trend Over Time (Chart3_Line.png)
+4. **Horizontal Bar Chart** - Top 10 Products by Sales (Chart4_Top10Products.png)
 
-## 📸 Screenshots:
-All visualizations are included as PNG files in this repository.
+## Key Insights:
+- Technology category has the highest sales.
+- East region contributes the most profit.
+- Sales showed a seasonal trend over the months.
+- Top products mostly belong to Office Supplies and Technology.
 
-## 📚 What I Learned:
-- How to select the right chart based on data type
-- How to use Tableau for storytelling with data
-- Importance of focusing on clarity and insights
+## Conclusion:
+Effective use of visual storytelling helps businesses quickly grasp patterns, trends, and opportunities from the data.
